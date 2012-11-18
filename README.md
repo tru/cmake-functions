@@ -4,7 +4,7 @@
 * sourceutils.cmake - Small collection of functions that might be good to have when building larger projects
 * betterconfig.cmake - Better library finding methods
 
-
+```
 Copyright (c) 2012, Tobias Hieta <tobias@plexapp.com>
 All rights reserved.
 
@@ -31,3 +31,4 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 The views and conclusions contained in the software and documentation are those
 of the authors and should not be interpreted as representing official policies, 
 either expressed or implied, of the FreeBSD Project.
+```
